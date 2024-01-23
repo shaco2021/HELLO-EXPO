@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>첫 커밋입니다.</Text>
+      <Text>첫번째 커밋입니다.</Text>
       <StatusBar style="auto" />
     </View>
   );
